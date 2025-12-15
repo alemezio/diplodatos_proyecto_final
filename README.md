@@ -1,4 +1,4 @@
-# 📊 Proyecto Final – Diplomatura en Ciencia de Datos, IA y sus Aplicaciones en Economía y Negocios (2025)
+# 📊 Proyecto Final – Diplomatura en Ciencia de Datos, IA y sus Aplicaciones en Economía y Negocios (2025) diplocienciadedatos.com.ar
 
 Este repositorio contiene el **proyecto final** realizado como parte de la *Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus Aplicaciones en Economía y Negocios*
 de la Universidad Nacional de Córdoba (UNC). 📚
@@ -7,9 +7,9 @@ de la Universidad Nacional de Córdoba (UNC). 📚
 
 El objetivo del proyecto fue **analizar y modelar datos del dataset de Olist** para extraer insights accionables y construir modelos predictivos que apoyen la toma de decisiones.
 El análisis abarca desde la **exploración de datos**, **procesamiento de la base**, hasta la **construcción y evaluación de modelos de Machine Learning** para un caso de negocio
-específico — por ejemplo, predicción de métricas relevantes para la operación de la plataforma de e-commerce.
+específico.
 
-## 🚀 Estructura del repositorio
+## Estructura del repositorio
 
 | Carpeta/Archivo | Descripción |
 |-----------------|-------------|
@@ -36,7 +36,7 @@ Exploración detallada de las principales variables del dataset para comprender:
 
 Se implementaron técnicas de Machine Learning para:
 
-- Construir modelos supervisados que predicen una métrica de interés (p. ej., comportamiento de ventas, tiempos de entrega, etc.).
+- Construir modelos supervisados que predicen una métrica de interés.
 - Evaluar su desempeño mediante métricas estándar.
 - Comparar y seleccionar el mejor enfoque basado en resultados cuantitativos.
 
