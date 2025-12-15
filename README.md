@@ -56,8 +56,8 @@ El proyecto se desarrolló utilizando:
 
 2. Explorar los notebooks:
 
-- Abrir Parte1_Olist_Analisis_Exploratorio.ipynb para ver el análisis de datos.
-- Abrir Parte2_Olist_Machine_Learning.ipynb para los modelos.
+   - Abrir Parte1_Olist_Analisis_Exploratorio.ipynb para ver el análisis de datos.
+   - Abrir Parte2_Olist_Machine_Learning.ipynb para los modelos.
 
 3. Reproducir el análisis instalando las dependencias necesarias y ejecutando los notebooks en tu entorno local.
 
