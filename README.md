@@ -1,7 +1,7 @@
-# 📊 Proyecto Final – Diplomatura en Ciencia de Datos, IA y sus Aplicaciones en Economía y Negocios (2025) diplocienciadedatos.com.ar
+# 📊 Proyecto Final – Diplomatura en Ciencia de Datos, IA y sus Aplicaciones en Economía y Negocios (2025)
 
 Este repositorio contiene el **proyecto final** realizado como parte de la *Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus Aplicaciones en Economía y Negocios*
-de la Universidad Nacional de Córdoba (UNC). 📚
+de la Universidad Nacional de Córdoba (diplocienciadedatos.com.ar)
 
 ## 🧠 Descripción
 
