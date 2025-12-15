@@ -53,3 +53,14 @@ El proyecto se desarrolló utilizando:
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/alemezio/diplodatos_proyecto_final.git
+
+2. Explorar los notebooks:
+
+- Abrir Parte1_Olist_Analisis_Exploratorio.ipynb para ver el análisis de datos.
+- Abrir Parte2_Olist_Machine_Learning.ipynb para los modelos.
+
+3. Reproducir el análisis instalando las dependencias necesarias y ejecutando los notebooks en tu entorno local.
+
+📬 Contacto
+
+Si tenés preguntas o sugerencias sobre este proyecto, podés contactarme a través de mi perfil de GitHub.
